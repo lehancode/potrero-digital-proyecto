@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Bridgerton;
+    src: url('./Fonts/Garamond\ Premier\ Pro\ Italic.ttf')
+}
+h1 {
+    font-family: Bridgerton, sans-serif;
+}
+p {
+    font-family: Bridgerton, sans-serif;
+}
+body {
+    background-image: url("Img/background.jpg");
+}
